@@ -1,4 +1,4 @@
-# march-madness
+# March Madness
 
 In 2019, a friend and I started what we called an “algorithm.” Every year when filling out our march madness brackets we would look at some key indicators that we believed to be important to win in a one game elimination tournament. The statistics that we looked at were Free Throw %, Assist/TO, Three Point %, Defensive Rebound %, Offensive Rebound %, Opponent Three Point % and Defensive efficiency. I wanted to make an easy way to evaluate teams on all of these metrics, and with that we created what we called FATDOOD. 
 
